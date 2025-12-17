@@ -10,7 +10,7 @@ The Solution & Outcome
 Outcome: Transformed abstract requirements into executable Gherkin Feature Files, allowing Product Managers to read the tests in plain English.
 Impact: Reduced Invalid Bug reports by 30% by validating scenarios before writing code.
 Efficiency: maintained the 40% reduction in regression time while adding Living Documentation for the team.
- BDD Automation Framework (Cucumber + JUnit) 🥒
+ BDD Automation Framework (Cucumber + JUnit)
 [Java](https://img.shields.io/badge/Language-Java-orange)
 [Selenium](https://img.shields.io/badge/Tool-Selenium_WebDriver-blue)
 [Framework](https://img.shields.io/badge/Framework-Cucumber_BDD-green)
